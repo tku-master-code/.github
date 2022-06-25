@@ -5,7 +5,13 @@
  -gary  
  
 ### Deposit Progress:
-<span style="color:blue">some *blue* text</span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <ul style="list-style-type: disc;">
 <li><font color="blue">6/20 ~ 6/26: easy</font></li>
