@@ -12,4 +12,5 @@
 * 7/18 ~ 7/24: hard
 * 7/25 ~ 8/14: relaxation (synopsys purple 100)
 * 8/15 ~ 9/12: free (no too much easy)  
+
 -K.Tsubasa
