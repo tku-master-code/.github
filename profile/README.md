@@ -5,12 +5,14 @@
  -gary  
  
 ### Deposit Progress:
-* 6/20 ~ 6/26: <span style="color: red; ">**easy**</span>
-* 6/27 ~ 7/03: **medium**
-* 7/04 ~ 7/10: **easy+medium**
-* 7/11 ~ 7/17: **medium+hard**
-* 7/18 ~ 7/24: **hard**
-* 7/25 ~ 8/14: **relaxation (synopsys purple 100)**
-* 8/15 ~ 9/12: **free (no too much easy)**
 
+<ul style="list-style-type: disc;">
+<li><span style="color: blue; ">6/20 ~ 6/26: easy</span></li>
+<li>6/27 ~ 7/03: medium</li>
+<li>7/04 ~ 7/10: easy+medium</li>
+<li>7/11 ~ 7/17: medium+hard</li>
+<li>7/18 ~ 7/24: hard</li>
+<li>7/25 ~ 8/14: relaxation (synopsys purple 100)</li>
+<li>8/15 ~ 9/12: free (no too much easy)</li>
+</ul>
  -K.Tsubasa
