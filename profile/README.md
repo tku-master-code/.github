@@ -6,6 +6,7 @@
  
 ### Deposit Progress:
 ```diff
+* - abc
 - text in red
 + text in green
 ! text in orange
