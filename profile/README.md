@@ -5,19 +5,6 @@
  -gary  
  
 ### Deposit Progress:
-* 
-```diff 
-abc 
-```
-```diff
-* - abc
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 <ul style="list-style-type: disc;">
 <li><font color="blue">6/20 ~ 6/26: easy</font></li>
 <li>6/27 ~ 7/03: medium</li>
