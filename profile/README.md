@@ -7,7 +7,7 @@
 ### Deposit Progress:
 
 <ul style="list-style-type: disc;">
-<li><span style="color: blue; ">6/20 ~ 6/26: easy</span></li>
+<li><font color="blue">6/20 ~ 6/26: easy</font></li>
 <li>6/27 ~ 7/03: medium</li>
 <li>7/04 ~ 7/10: easy+medium</li>
 <li>7/11 ~ 7/17: medium+hard</li>
