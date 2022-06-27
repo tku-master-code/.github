@@ -5,7 +5,7 @@
  -gary  
  
 ---
-## LeetCode Practice
+## LeetCode Practice (2022 summer vacation)
 ### Deposit Progress:
 * ~~6/20 ~ 6/26: **easy**~~
 * 6/27 ~ 7/03: **medium** **&lArr;**
