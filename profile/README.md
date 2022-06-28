@@ -8,7 +8,7 @@
 ## LeetCode Practice (2022 Summer)
 ### Deposit Progress:
 * ~~6/20 ~ 6/26: **easy**~~
-* *6/27 ~ 7/03: **medium** **&lArr;***
+* 6/27 ~ 7/03: **medium** **&lArr;**
 * 7/04 ~ 7/10: **easy+medium**
 * 7/11 ~ 7/17: **medium+hard**
 * 7/18 ~ 7/24: **hard**
