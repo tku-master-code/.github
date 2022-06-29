@@ -15,5 +15,5 @@
 * 7/25 ~ 8/14: **relaxation (synopsys purple 100)**
 * 8/15 ~ 9/12: **free (no too much easy)**
 
-"If you finished the problem, please labeled the issue."  
+*If you finished the problem, please labeled the issue.*  
 -K.Tsubasa
