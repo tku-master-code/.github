@@ -6,7 +6,7 @@
 
 If you are interest in Module A, B of synopsys purple 100,  
 I can give you a copy of materials.  
-- K.Tsubasa
+-K.Tsubasa
  
 ---
 ## LeetCode Practice (2022 Summer)
