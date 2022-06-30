@@ -3,6 +3,10 @@
 這邊是練習code的小天地  
 但不知道能不能堅持下去就是了  
  -gary  
+
+If you are interest in Module A, B of synopsys purple 100,  
+I can give you a copy of materials.  
+- K.Tsubasa
  
 ---
 ## LeetCode Practice (2022 Summer)
@@ -14,5 +18,3 @@
 * 7/18 ~ 7/24: **hard**
 * 7/25 ~ 8/14: **relaxation**
 * 8/15 ~ 9/12: **free (medium+hard)**
-
--K.Tsubasa
