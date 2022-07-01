@@ -3,10 +3,6 @@
 >這邊是練習code的小天地  
 >但不知道能不能堅持下去就是了  
 >-gary  
-
->If you are interest in Module A, B of synopsys purple 100 program,  
->I can give you a copy of materials.   
->-K.Tsubasa
  
 ---
 ## LeetCode Practice (2022 Summer)
