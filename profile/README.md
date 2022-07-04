@@ -4,7 +4,7 @@
 >但不知道能不能堅持下去就是了  
 >-gary  
 
->Per Aspera Ad Astra
+>Per Aspera Ad Astra  
 >-K.Tsubasa  
 ---
 ## LeetCode Practice (2022 Summer)
