@@ -11,8 +11,8 @@
 ### Deposit Progress:
 * ~~6/20 ~ 6/26: **easy**~~
 * ~~6/27 ~ 7/03: **medium**~~
-* 7/04 ~ 7/10: **easy+medium** **&lArr;**
-* 7/11 ~ 7/17: **easy+medium**
+* ~~7/04 ~ 7/10: **easy+medium**~~
+* 7/11 ~ 7/17: **easy+medium** **&lArr;**
 * 7/18 ~ 7/24: **hard**
 * 7/25 ~ 8/14: **relaxation**
 * 8/15 ~ 9/12: **free (medium or hard)**
