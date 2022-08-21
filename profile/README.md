@@ -17,4 +17,4 @@
 * ~~7/11 ~ 7/17: **easy+medium**~~
 * ~~7/18 ~ 7/24: **easy+hard**~~
 * ~~7/25 ~ 8/14: **relaxation**~~
-* 8/15 ~ 9/12: **easy + (medium or hard)** **&lArr;**
+* 8/15 ~ 9/11: **easy + (medium or hard)** **&lArr;**
