@@ -9,5 +9,5 @@
 >Per Aspera Ad Astra  
 >-K.Tsubasa  
 ---
-## LeetCode Practice (2022 December: preperation for the interview)
+## LeetCode Practice
 ### Preparation in progress ...
